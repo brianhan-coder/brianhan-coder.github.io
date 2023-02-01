@@ -3,7 +3,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: Minimal
+#theme: Minimal
  
 # Where things are
 source              : .
