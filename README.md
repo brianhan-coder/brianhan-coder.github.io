@@ -11,13 +11,13 @@ I'm Ling Han. A first-year PhD student at Yale Computer Science. My research int
 
 ## Education Background
 ### Yale Universitiy 
->> <br>`PhD Student` (Since AUG 2022) </br>
+>> `PhD Student` (Since AUG 2022) <br>
 >> Computer Science
 
 ### Wuhan University
->> <br>`Master of Science` (Aug 2019 - Jun 2022) </br>
+>> `Master of Science` (Aug 2019 - Jun 2022) <br>
 >> Computer Science
 >
->> <br>`Bachelor of Engineering` (Sep 2015 - Jun 2019) </br>
+>> `Bachelor of Engineering` (Sep 2015 - Jun 2019) <br>
 >> Computer Science
 
