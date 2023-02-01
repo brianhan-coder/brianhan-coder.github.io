@@ -5,4 +5,6 @@ I'm Ling Han. A first-year PhD student at Yale Computer Science. My research int
 [My official wesite @ Yale](https://cpsc.yale.edu/people/ling-han)
 
 ## Education Background
+* Yale Universitiy * PhD Student --Since AUG 2022
+  *Department of Computer Science
 
