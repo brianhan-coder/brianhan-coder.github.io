@@ -1,5 +1,5 @@
 # Ling Han
-## [Home](https://www.linghan.me/)  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  [Research](https://www.linghan.me/research)  ~   [Contact Me](https://www.linghan.me/CM)  ~  [Chinese Version 中文版](https://www.linghan.me/Chinese)
+## Home  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  [Research](https://www.linghan.me/research)  ~   [Contact Me](https://www.linghan.me/CM)  ~  [Chinese Version 中文版](https://www.linghan.me/Chinese)
 ![Image text](https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-4584-1665512254.jpg?itok=IApMI3ZT)
 
 ## Bio
