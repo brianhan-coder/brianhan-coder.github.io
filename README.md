@@ -14,7 +14,7 @@ I'm Ling Han, a first-year PhD student at Yale Computer Science. I received my M
 
 ## Education Background
 ### Yale Universitiy 
->> `PhD Student` (Since AUG 2022) <br>
+>> `PhD Student` (Since Aug 2022) <br>
 >> Computer Science
 
 ### Wuhan University
