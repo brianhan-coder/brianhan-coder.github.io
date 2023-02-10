@@ -13,6 +13,14 @@ It's my pleasue to work with my benevolent and talented colleagues at [Gerstein 
 [Getting to know these amazing researchers here](http://www.gersteinlab.org/people/)
 
 ## News
+* Jan 15, 2023 Joined Gerstein Lab
+
+* Aug 1, 2022 Enrolled at Yale as a Ph.D student
+
+* May 13, 2022 Admitted to Yale Universuty - Computer Science - Ph.D program
+
+* Feb 7, 2022 Admitted to Duke Universuty - Computer Science - Ph.D program
+
 
 ## Education Background
 ### Yale Universitiy 
