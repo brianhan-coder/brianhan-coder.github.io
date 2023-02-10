@@ -17,6 +17,8 @@ It's my pleasue to work with my benevolent and talented colleagues at [Gerstein 
 
 * Aug 1, 2022 Enrolled at Yale as a Ph.D student
 
+* Jun 30, 2022 Received Master's Degree from Wuhan University
+
 * May 13, 2022 Admitted to Yale Universuty - Computer Science - Ph.D program
 
 * Feb 7, 2022 Admitted to Duke Universuty - Computer Science - Ph.D program
