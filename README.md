@@ -23,12 +23,13 @@ It's my pleasue to work with my benevolent and talented colleagues at [Gerstein 
 ## Education Background
 ### Yale Universitiy 
 >> `PhD Student` (Since Aug 2022) <br>
->> Computer Science
+>> **Computer Science**
 
 ### Wuhan University
 >> `Master of Science` (Aug 2019 - Jun 2022) <br>
->> Computer Science
+>> **Computer Science**<br>
+>> Thesis: High-performance Federated Blockchain Architecture Based on Independent Hierarchical Markov RSM Model
 >
 >> `Bachelor of Engineering` (Sep 2015 - Jun 2019) <br>
->> Computer Science
+>> **Computer Science**
 
