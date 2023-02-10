@@ -10,7 +10,7 @@ I'm Ling Han, a first-year PhD student at Yale Computer Science. I work at [Gers
 [Linkedin](https://www.linkedin.com/in/ling-han-brian) # 
 [Twitter](https://twitter.com/BRIANHANL)<br>
 It's my pleasue to work with my benevolent and talented colleagues at [Gerstein Lab](http://www.gersteinlab.org). Allow me to introduce them through lab mates page:<br>
-[Getting to know these amazing researchers here](http://http://www.gersteinlab.org/people/)
+[Getting to know these amazing researchers here](http://www.gersteinlab.org/people/)
 
 ## News
 
