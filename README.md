@@ -3,7 +3,7 @@
 ![Image text](https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-4584-1665512254.jpg?itok=IApMI3ZT)
 
 ## Bio
-I'm **Brian**, a.k.a. **Ling Han**, a first-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I work at [Gerstein Lab](http://www.gersteinlab.org), advised by [Prof. Mark Gerstein](https://cpsc.yale.edu/people/mark-gerstein). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Machine Learning, Bioinformatics, Blockchain and Security. I’m working on the projects related to protein interface and matching prediction with interpretable machine learning, protein structure and properties study with GNN, and Ethereum protocol security. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
+I'm **Brian**, a.k.a. **Ling Han**, a first-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I'm working as a rotational intern recently at [Graph and Geometric Learning Lab] (https://www.cs.yale.edu/homes/ying-rex/) advised by [Dr. Rex (Zhitao) Ying](https://cpsc.yale.edu/people/zhitao-ying). I also work at [Gerstein Lab](http://www.gersteinlab.org), advised by [Prof. Mark Gerstein](https://cpsc.yale.edu/people/mark-gerstein). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Trustworthy Deep Learning, Machine Learning Theory, Bioinformatics, Blockchain and Security. I’m working on Machine Unlearning and the projects related to protein interface and matching prediction with interpretable machine learning, protein structure and properties study with GNN, and Ethereum protocol security. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
 For contact information, please refer to **[Contact Me](CM)** page.
 
 
@@ -14,6 +14,8 @@ It's my pleasue to work with my benevolent and talented colleagues at [Gerstein 
 [Getting to know these amazing researchers here](http://www.gersteinlab.org/people/)
 
 ## News
+* Apr 14, 2023 Joined Yale Graph and Geometric Learning Lab
+
 * Jan 15, 2023 Joined Gerstein Lab
 
 * Aug 1, 2022 Enrolled at Yale as a Ph.D student
