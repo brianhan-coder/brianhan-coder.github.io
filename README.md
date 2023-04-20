@@ -17,7 +17,9 @@ For contact information, please refer to **[Contact Me](CM)** page.
 
 * Jan 15, 2023 Joined Gerstein Lab
 
-* Aug 1, 2022 Enrolled at Yale as a Ph.D student
+* Aug 1, 2022 Joined Yale Applied Cryptography Lab
+
+* Aug 1, 2022 Enrolled at Yale!
 
 * Jun 30, 2022 Received Master's Degree from Wuhan University
 
