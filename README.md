@@ -3,8 +3,7 @@
 ![Image text](https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-4584-1665512254.jpg?itok=IApMI3ZT)
 
 ## Bio
-I'm **Brian**, a.k.a. **Ling Han**, a first-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Trustworthy Deep Learning, Machine Learning Theory, Bioinformatics. I’m working on Machine Unlearning and the projects related to protein interface and matching prediction with interpretable machine learning, protein structure and properties study with GNN. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
-*I will work as a teaching fellow (TF) with Rex to teach the Yale graduate level course CPSC583/483 Deep Learning on Graph-Structured Data. Yale GSAS students and Yale College undergraduates are welcome to enroll in this course at 2023fall! Please refer to [Yale Course Search](https://courses.yale.edu/?srcdb=202303&col=GS&dept=CPSC) for details of this course.<br>
+I'm **Brian**, a.k.a. **Ling Han**, a first-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Machine Learning and Computer Security. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
 For contact information, please refer to **[Contact Me](CM)** page.
 
 
@@ -13,11 +12,7 @@ For contact information, please refer to **[Contact Me](CM)** page.
 [Twitter](https://twitter.com/BRIANHANL)<br>
 
 ## News
-* Apr 14, 2023 Joined Yale Graph and Geometric Learning Lab
-
-* Jan 15, 2023 Joined Gerstein Lab
-
-* Aug 1, 2022 Joined Yale Applied Cryptography Lab
+* May 2, 2023 Research Paper Presentation on WWW (The Web Conference) 2023
 
 * Aug 1, 2022 Enrolled at Yale!
 
