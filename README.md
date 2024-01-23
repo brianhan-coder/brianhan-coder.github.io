@@ -3,7 +3,7 @@
 ![Image text](https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-4584-1665512254.jpg?itok=IApMI3ZT)
 
 ## Bio
-I'm **Brian**, a.k.a. **Ling Han**, a first-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Machine Learning and Computer Security. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
+I'm **Brian**, a.k.a. **Ling Han**, a second-year PhD student at [Yale Computer Science](https://cpsc.yale.edu). I received my M.S. in Computer Science from Wuhan University, advised by [Prof. Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)(Tsinghua University), and co-advised by [Prof. Hao Huang](http://cs.whu.edu.cn/info/1019/2467.htm#). I received my bachelor’s degree from Wuhan University, advised by [Prof. Jing Chen](https://cse.whu.edu.cn/info/1272/3389.htm). My research interests include Machine Learning, Bioinformatics and Privacy. If you’re interested in any of those topics, feel free to email me. I’m always open to schedule a meeting with my fellow researchers on the interesting research and ideas. <br>
 For contact information, please refer to **[Contact Me](CM)** page.
 
 
@@ -12,6 +12,8 @@ For contact information, please refer to **[Contact Me](CM)** page.
 [Twitter](https://twitter.com/BRIANHANL)<br>
 
 ## News
+* Jan 2, 2024 Joined Yale [LiGHT](https://www.yale-light.org/) (Laboratory of Intelligent Global Health Technologies)
+
 * May 2, 2023 Research Paper Presentation on WWW (The Web Conference) 2023
 
 * Aug 1, 2022 Enrolled at Yale!
